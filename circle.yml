@@ -1,3 +1,9 @@
+deployment:
+  prod:
+    branch: master
+    heroku:
+      appname: yf-deliver-it-well
+
 machine:
   node:
     version: 8.1.4
